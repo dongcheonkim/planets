@@ -3,4 +3,9 @@ I'm thinking of going to Mars, mabve some students would like to go together?
 or not?
 change something?
 My student is nice
+<<<<<<< HEAD
 Github to update
+=======
+
+Yu's comments: Good thinking.
+>>>>>>> b5a56b2505f25dd6209e24d7818cf8231fa6ee09
